@@ -1,0 +1,16 @@
+{
+	"facts":[
+		{
+			"id": 1,
+			"fact": "Ruben Studdard beat out Clay Aiken to become the 2nd american idol"
+		},
+		{
+			"id": 2,
+			"fact": "The Cubs lost the NLCS thanks to the inervention of Steve Bartman"
+		},
+		{
+			"id": 3,
+			"fact": "ESPN launched the first high definition channel, ESPN HD"
+		}
+	]
+}
